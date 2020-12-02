@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Giacomo212&show_icons=true&count_private=true" alt="GitHub Stats">
+
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomo212&layout=compact" alt="Top Languages">
+
+
+
+
 <!--
 **Giacomo212/Giacomo212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
